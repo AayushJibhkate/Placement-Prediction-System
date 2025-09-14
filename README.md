@@ -17,7 +17,8 @@ A machine learning project that predicts student placement chances based on acad
 ## 🚀 How to Run
 1. Clone this repository:
    git clone https://github.com/AayushJibhkate/Placement-Prediction-System.git
-   2. Install required packages:
+
+2. Install required packages:
    pip install pandas scikit-learn pillow matplotlib
 
 3. Run the app:
